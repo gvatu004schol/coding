@@ -571,3 +571,9 @@ int main() {
     cout << "\nThanks for playing!" << endl;
     return 0;
 }
+/* This Holy_diver game was done with the help of the Visual studio code co pilot. 
+Co pilot helped to understand the basics of advanced programming and me and Daria were doing this assignment together. 
+We got extra help for some difficult to understand things like Constructor and destructor and encapsulation from Deepseek ai. 
+In VS code I encountered some problems with running and debugging the game but then I installed different launcher and it worked. 
+For the visual studio it needed some adjustment but it started working in the end.
+*/
