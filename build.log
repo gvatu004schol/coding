@@ -1,0 +1,59 @@
+holy_diver.cpp:35:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   35 |     "xxxxxxxxxxxxxxxxxxxx",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:36:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   36 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:37:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   37 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:38:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   38 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:39:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   39 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:40:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   40 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:41:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   41 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:42:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   42 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:43:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   43 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:44:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   44 |     "xooooooooPooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:45:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   45 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:46:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   46 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:47:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   47 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:48:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   48 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:49:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   49 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:50:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   50 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:51:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   51 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:52:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   52 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+holy_diver.cpp:53:5: error: initializer-string for char array is too long, array size is 20 but initializer has size 21 (including the null terminating character)
+   53 |     "xoooooooooooooooooox",
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.

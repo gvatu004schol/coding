@@ -1,0 +1,38 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Holy Diver",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++11",
+                "-Wall",
+                "-Wextra",
+                "-g",
+                "${workspaceFolder}/holy_diver.cpp",
+                "-o",
+                "${workspaceFolder}/holy_diver"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "Run Holy Diver",
+            "type": "shell",
+            "command": "${workspaceFolder}/holy_diver",
+            "dependsOn": "Build Holy Diver",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "panel": "new",
+                "focus": true
+            }
+        }
+    ]
+}
